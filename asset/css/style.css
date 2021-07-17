@@ -1,0 +1,42 @@
+a:link {
+    text-decoration: none;
+    color: #a4dcfb;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: aliceblue;
+}
+
+div {
+    text-align: center;
+}
+
+div.cardColor {
+    background-color: #606b75;
+}
+
+div.width90 {
+    width: 90%;
+    margin-left: 5%;
+}
+
+iframe.description {
+    display:none;
+    width:400px;
+    height:400px;
+
+}
+
+iframe.tiptext {
+    cursor:pointer;
+}
+
+p {
+    text-align: center;
+}
+
+p.width90 {
+    width: 90%;
+    margin-left: 5%;
+}
