@@ -3,6 +3,11 @@ a:link {
     text-decoration: none;
 }
 
+a:visited {
+    color: #a4dcfb;
+    text-decoration: none;
+}
+
 a:hover {
     color: aliceblue;
     text-decoration: underline;
