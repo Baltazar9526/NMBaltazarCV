@@ -22,7 +22,7 @@ div {
 }
 
 div.cardColor {
-    background-color: #016286;
+    background-color: #808080;
     opacity: 0.9;
 }
 
@@ -127,7 +127,7 @@ div.width90 {
 }  
 
 hr.solid {
-    border-top: 3px solid #A83030;
+    border-top: 3px solid #f5f5f5;
 }
 
 iframe.description {
